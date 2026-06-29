@@ -1,4 +1,4 @@
-# 
+# Open Source AutoHotkey modules complémentaires pour Mac OS | Sécurisé AutoHotkey modules complémentaires pour PC Windows. Avec protection par mot de passe et récupération de fichiers — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
